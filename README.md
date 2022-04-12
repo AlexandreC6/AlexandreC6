@@ -3,7 +3,7 @@
 
 - 🔭 I’m open for **I’m open for a job or internship as a frontend dev**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js and Three.js (Udemy course by Maximilian Schwarzmüller and threejs-journey by Bruno Simon)** 
 
 - 📫 How to reach me **alex.camilo6@hotmail.ch**
 
