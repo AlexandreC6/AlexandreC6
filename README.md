@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Camilo</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
 
-- 🔭 I’m open for **I’m open for a job or internship as a frontend dev**
+- 🔭 I’m open for **a job or internship as a frontend dev**
 
 - 🌱 I’m currently learning **Vue.js and Three.js (Udemy course by Maximilian Schwarzmüller and threejs-journey by Bruno Simon)** 
 
