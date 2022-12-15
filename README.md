@@ -1,17 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=367BF7&lines=Welcome+to+Camilo's+GitHub)](https://git.io/typing-svg)
+[![Cover](https://github.com/AlexandreC6/AlexandreC6/raw/main/img/LinkedIn%20cover%20-%20design%20choisi.png)](https://www.alex-camilo6.ch/)
 
-<a href="#"><img height="auto" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></a>
+# Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-## I'm a Frontend developer from Switzerland
+My name is Alexandre Camilo and I'm a frontend developer. I'm from Switzerland, living in Geneva and currently search a new opportunity. You can connect with me on <a href="https://linkedin.com/in/alexandre-camilo-79a94a225" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>,  or on <a href="mailto:alex.camilo6@hotmail.ch">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>.
 
-- 🔭 I’m open for **a job or internship as a frontend dev**
+## 🔧 Technologies & Tools
 
-- 🌱 I’m currently learning **Vue.js and Three.js (Udemy course by Maximilian Schwarzmüller and threejs-journey by Bruno Simon)** 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![ReactJs](https://img.shields.io/badge/-React.js-000?&logo=React)
+![VueJs](https://img.shields.io/badge/-vue.js-000?&logo=vuedotjs)
+![Three Js](https://img.shields.io/badge/-three.js-000?&logo=threedotjs)
+![Ruby](https://img.shields.io/badge/-ruby-000?&logo=ruby)
+![Ruby On Rails](https://img.shields.io/badge/-ruby_on_rails-000?&logo=rubyonrails)
+  
+  
+## &#x1f4c8; GitHub Stats
 
-- 📫 How to reach me **alex.camilo6@hotmail.ch**
-<br>
+<a href="https://github.com/AlexandreC6/AlexandreC6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreC6&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/AlexandreC6/AlexandreC6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreC6&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alexandre Camilo's GitHub Stats" />
+</a>
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+<a href="https://github.com/AlexandreC6/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreC6&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AlexandreC6/Clone-IMDB-ReactApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreC6&repo=Clone-IMDB-ReactApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+## Connect with me
 <div id="badges" align="left">
   <a href="https://linkedin.com/in/alexandre-camilo-79a94a225" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -19,25 +45,5 @@
   <a href="mailto:alex.camilo6@hotmail.ch">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://twitter.com/alexc_fs" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
 </div>
 <br>
-
-## Languages and Tools :hammer_and_pick:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
-
-
-
